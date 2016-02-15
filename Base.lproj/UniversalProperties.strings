@@ -1,0 +1,17 @@
+"CBLPropertyIdentifierISOSpeed" = "ISO";
+"CBLPropertyIdentifierShutterSpeed" = "Shutter Speed";
+"CBLPropertyIdentifierAperture" = "Aperture";
+"CBLPropertyIdentifierExposureCompensation" = "Exp. Compensation";
+"CBLPropertyIdentifierBatteryLevel" = "Battery Level";
+"CBLPropertyIdentifierPowerSource" = "Power Source";
+"CBLPropertyIdentifierAFSystem" = "AF System";
+"CBLPropertyIdentifierFocusMode" = "Focus Mode";
+"CBLPropertyIdentifierDriveMode" = "Drive Mode";
+"CBLPropertyIdentifierAutoExposureMode" = "AE Mode";
+"CBLPropertyIdentifierInCameraBracketingEnabled" = "Bracketing?";
+"CBLPropertyIdentifierMirrorLockupEnabled" = "MLU?";
+"CBLPropertyIdentifierMirrorLockupStage" = "MLU Stage";
+"CBLPropertyIdentifierDOFPreviewEnabled" = "DOF Preview?";
+"CBLPropertyIdentifierEVFOutputDevice" = "EVF Output";
+"CBLPropertyIdentifierShotsAvailable" = "Shots Available";
+"CBLPropertyIdentifierLensStatus" = "Lens?";

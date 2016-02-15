@@ -1,0 +1,5 @@
+"CBLFocusModeMF" = "MF";
+"CBLFocusModeSingleAFWithMFOverride" = "MF-A";
+"CBLFocusModeSingleAF" = "AF-S";
+"CBLFocusModeContinuousAF" = "AF-C";
+"CBLFocusModeAutoSwitchingSingleContinuousAF" = "AF-A";
