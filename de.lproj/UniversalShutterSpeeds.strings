@@ -5,3 +5,7 @@
 "OneOver" = "⅟";
 "BulbValue" = "Bulb";
 "AutomaticValue" = "Auto";
+
+"livecomp" = "Live Comp";
+"livetime" = "Live Time";
+"livebulb" = "Live Bulb";

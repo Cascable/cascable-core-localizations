@@ -1,0 +1,22 @@
+/* 
+  OlympusDriveModes.strings
+  CascableCore
+
+  Created by Daniel Kennett on 02/03/16.
+  Copyright © 2016 Daniel Kennett. All rights reserved.
+*/
+
+"normal" = "Single";
+"lowvib-normal" = "Anti-Shock [♦︎]";
+"silent-normal" = "Silent [♥]";
+"continuous-H" = "Sequential H";
+"silent-continuous-H" = "Sequential H Silent [♥]";
+"continuous-L" = "Sequential L";
+"lowvib-continuous-L" = "Sequential L Anti-Shock [♦︎]";
+"silent-continuous-L" = "Sequential L Silent [♥]";
+"selftimer" = "Self-Timer: 12s";
+"lowvib-selftimer" = "Self-Timer: 12s Anti-Shock [♦︎]";
+"silent-selftimer" = "Self-Timer: 12s Silent [♥]";
+"customselftimer" = "Self-Timer: Custom";
+"lowvib-customselftimer" = "Self-Timer: Custom Anti-Shock [♦︎]";
+"silent-customselftimer" = "Self-Timer: Custom Silent [♥]";
