@@ -1,0 +1,8 @@
+/* 
+  This file contains translations for the power sources provided 
+  by Olympus cameras. The values must match the wording used by the
+  camera (if provided) when set to this language.
+*/
+
+"CBLPowerSourceBattery" = "Battery Power";
+"CBLPowerSourceMainsPower" = "Mains Power";
