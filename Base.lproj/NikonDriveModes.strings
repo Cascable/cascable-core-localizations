@@ -8,3 +8,4 @@
 "CBLDriveModeTenSecondTimer" = "Self-Timer: 10s";
 "CBLDriveModeTwoSecondTimer" = "Self-Timer: 2s";
 "CBLDriveModeSingleShotWithMirrorUp" = "Mirror Up";
+"CBLDriveModeNikonQuickResponseRemote" = "Quick-Response Remote";
