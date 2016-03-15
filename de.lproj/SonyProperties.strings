@@ -7,3 +7,5 @@
 "FocusMode" = "Focusing";
 "ContShootingMode" = "Shutter Drive";
 "SelfTimer" = "Self Timer";
+"CBLPropertyIdentifierDriveMode" = "Drive Mode";
+
