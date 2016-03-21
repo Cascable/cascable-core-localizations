@@ -6,6 +6,6 @@
 "BulbValue" = "Bulb";
 "AutoValue" = "Auto";
 
-"livecomp" = "Live Comp";
-"livetime" = "Live Time";
-"livebulb" = "Live Bulb";
+"livecomp" = "L. Comp";
+"livetime" = "L. Time";
+"livebulb" = "Bulb";
