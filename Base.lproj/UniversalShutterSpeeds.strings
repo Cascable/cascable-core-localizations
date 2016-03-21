@@ -4,7 +4,7 @@
 
 "OneOver" = "⅟";
 "BulbValue" = "Bulb";
-"AutomaticValue" = "Auto";
+"AutoValue" = "Auto";
 
 "livecomp" = "Live Comp";
 "livetime" = "Live Time";
