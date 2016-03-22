@@ -5,6 +5,7 @@
 "OneOver" = "⅟";
 "BulbValue" = "Bulb";
 "AutoValue" = "Auto";
+"FlashSync" = "Sync";
 
 "livecomp" = "Live Comp";
 "livetime" = "Live Time";
