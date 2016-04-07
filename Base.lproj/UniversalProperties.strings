@@ -15,3 +15,8 @@
 "CBLPropertyIdentifierEVFOutputDevice" = "EVF Output";
 "CBLPropertyIdentifierShotsAvailable" = "Shots Available";
 "CBLPropertyIdentifierLensStatus" = "Lens?";
+"CBLPropertyIdentifierColorTone" = "Color Tone";
+"CBLPropertyIdentifierArtFilter" = "Art Filter";
+"CBLPropertyIdentifierDigitalZoom" = "Digital Teleconverter";
+"CBLPropertyIdentifierWhiteBalance" = "White Balance";
+"CBLPropertyIdentifierNoiseReduction" = "Noise Reduction";
