@@ -1,0 +1,10 @@
+"CBLWhiteBalanceAutomatic" = "Automatic";
+"CBLWhiteBalanceSunny" = "Direct Sunlight";
+"CBLWhiteBalanceShadow" = "Shade";
+"CBLWhiteBalanceCloudy" = "Cloudy";
+"CBLWhiteBalanceIncandescent" = "Incandescent";
+"CBLWhiteBalanceFlourescent" = "Flourescent";
+"CBLWhiteBalanceUnderwater" = "Underwater";
+"CBLWhiteBalanceFlash" = "Flash";
+"CBLWhiteBalanceExplicitKelvin" = "Color Temperature";
+"CBLWhiteBalanceNikonPresetManual" = "Preset Manual";

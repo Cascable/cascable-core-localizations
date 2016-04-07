@@ -20,3 +20,4 @@
 "CBLPropertyIdentifierDigitalZoom" = "Digital Teleconverter";
 "CBLPropertyIdentifierWhiteBalance" = "White Balance";
 "CBLPropertyIdentifierNoiseReduction" = "Noise Reduction";
+"CBLPropertyIdentifierImageQuality" = "Image Quality";
