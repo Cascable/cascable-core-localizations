@@ -11,7 +11,7 @@
 "PTPPropertyCodeEOSDriveMode" = "Shutter Drive";
 "PTPPropertyCodeEOSMeteringMode" = "Metering";
 "PTPPropertyCodeEOSFocusMode" = "Focus";
-"PTPPropertyCodeEOSWhiteBalance" = "WB";
+"PTPPropertyCodeEOSWhiteBalance" = "White Balance";
 "PTPPropertyCodeEOSColorTemperature" = "Color Temp.";
 "PTPPropertyCodeEOSWhiteBalanceAdjustA" = "WB Adjust A";
 "PTPPropertyCodeEOSWhiteBalanceAdjustB" = "WB Adjust B";
