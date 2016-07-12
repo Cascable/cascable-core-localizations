@@ -3,7 +3,7 @@
 "CBLWhiteBalanceShadow" = "Shade";
 "CBLWhiteBalanceCloudy" = "Cloudy";
 "CBLWhiteBalanceIncandescent" = "Incandescent";
-"CBLWhiteBalanceFlourescent" = "Flourescent";
+"CBLWhiteBalanceFluorescent" = "Fluorescent";
 "CBLWhiteBalanceUnderwater" = "Underwater";
 "CBLWhiteBalanceFlash" = "Flash";
 "CBLWhiteBalanceExplicitKelvin" = "Color Temperature";

@@ -8,7 +8,7 @@
 "EOSWhiteBalanceDaylight" = "Daylight";
 "EOSWhiteBalanceCloudy" = "Cloudy";
 "EOSWhiteBalanceIncandescent" = "Tungsten Light";
-"EOSWhiteBalanceWhiteFlourescent" = "White Flourescent Light";
+"EOSWhiteBalanceWhiteFluorescent" = "White Fluorescent Light";
 "EOSWhiteBalanceFlash" = "Flash";
 "EOSWhiteBalanceCustom" = "Custom";
 "EOSWhiteBalanceShade" = "Shade";

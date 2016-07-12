@@ -13,8 +13,8 @@
 /* CBLOlympusWhiteBalanceIncandescent */
 "20" = "Incandescent";
 
-/* CBLOlympusWhiteBalanceFlourescent */
-"35" = "Flourescent";
+/* CBLOlympusWhiteBalanceFluorescent */
+"35" = "Fluorescent";
 
 /* CBLOlympusWhiteBalanceUnderwater */
 "64" = "Underwater";
