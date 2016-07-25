@@ -1,0 +1,15 @@
+"Auto WB" = "Automatic";
+"Daylight" = "Daylight";
+"Shade" = "Shade";
+"Cloudy" = "Cloudy";
+"Incandescent" = "Incandescent";
+"Fluorescent: Warm White (-1)" = "Fluorescent: Warm White";
+"Fluorescent: Cool White (0)" = "Fluorescent: Cool White";
+"Fluorescent: Day White (+1)" = "Fluorescent: Day White";
+"Fluorescent: Daylight (+2)" = "Fluorescent: Daylight";
+"Flash" = "Flash";
+"Color Temperature" = "Custom Temperature";
+"Custom" = "Custom";
+"Custom 1" = "Custom 1";
+"Custom 2" = "Custom 2";
+"Custom 3" = "Custom 3";

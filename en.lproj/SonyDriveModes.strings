@@ -1,0 +1,11 @@
+"CBLDriveModeUnknown" = "Unknown";
+"CBLDriveModeSingleShot" = "Single Shot";
+"CBLDriveModeTwoSecondTimer" = "Self-Timer: 2s";
+"CBLDriveModeTenSecondTimer" = "Self-Timer: 10s";
+"CBLDriveModeHighSpeedContinuousShooting" = "Continuous Shooting: Hi";
+"CBLDriveModeMidSpeedContinuousShooting" = "Continuous Shooting: Mid";
+"CBLDriveModeLowSpeedContinuousShooting" = "Continuous Shooting: Lo";
+"CBLDriveModeContinuousShooting" = "Continuous Shooting";
+"CBLDriveModeSonySpeedPriorityContinuous" = "Continuous Shooting (Speed Priority)";
+"CBLDriveModeSonyBurst" = "Burst";
+"CBLDriveModeSonyMotionShot" = "Motion Shot";

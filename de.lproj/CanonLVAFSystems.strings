@@ -4,7 +4,7 @@
   camera (if provided) when set to this language.
 */
 
-"EOSLiveViewAFSystemQuick" = "Schnellfokus";
+"EOSLiveViewAFSystemQuick" = "Quick Focus";
 "EOSLiveViewAFSystemFlexiZone" = "FlexiZone Single";
-"EOSLiveViewAFSystemFaceDetect" = "Gesichtserkennung";
+"EOSLiveViewAFSystemFaceDetect" = "Face Detection";
 "EOSLiveViewAFSystemFlexiZoneMulti" = "FlexiZone Multi";

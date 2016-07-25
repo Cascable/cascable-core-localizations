@@ -1,0 +1,11 @@
+/* 
+  This file contains translations for the battery levels provided 
+  by Olympus cameras. The values must match the wording used by the
+  camera (if provided) when set to this language.
+*/
+
+"CBLBatteryPowerLevelFull" = "4/4";
+"CBLBatteryPowerLevelThreeQuarters" = "3/4";
+"CBLBatteryPowerLevelHalf" = "2/4";
+"CBLBatteryPowerLevelOneQuarter" = "1/4";
+"CBLBatteryPowerLevelEmpty" = "0/4";

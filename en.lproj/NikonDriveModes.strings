@@ -1,0 +1,11 @@
+"CBLDriveModeSingleShot" = "Single Shot";
+"CBLDriveModeSingleShotSilent" = "Quiet Single Shot";
+"CBLDriveModeContinuousShooting" = "Continuous";
+"CBLDriveModeContinuousShootingSilent" = "Quiet Continuous";
+"CBLDriveModeHighSpeedContinuousShooting" = "High Speed Continuous";
+"CBLDriveModeLowSpeedContinuousShooting" = "Low Speed Continuous";
+"CBLDriveModeContinuousShootingWithTimer" = "Self-Timer: Continuous";
+"CBLDriveModeTenSecondTimer" = "Self-Timer: 10s";
+"CBLDriveModeTwoSecondTimer" = "Self-Timer: 2s";
+"CBLDriveModeSingleShotWithMirrorUp" = "Mirror Up";
+"CBLDriveModeNikonQuickResponseRemote" = "Quick-Response Remote";
