@@ -4,5 +4,5 @@
   camera (if provided) when set to this language.
 */
 
-"CBLLensStatusNotAttached" = "Not Attached";
-"CBLLensStatusAttached" = "Attached";
+"CBLLensStatusNotAttached" = "Nicht montiert";
+"CBLLensStatusAttached" = "Montiert";

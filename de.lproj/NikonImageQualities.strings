@@ -2,5 +2,5 @@
 "CBLImageQualityNikonJPEGFine" = "JPEG Fine";
 "CBLImageQualityNikonJPEGNormal" = "JPEG Normal";
 "CBLImageQualityNikonJPEGBasic" = "JPEG Basic";
-"CBLImageQualityNoJPEG" = "Unknown";
-"RAWJPEGFormatter" = "%@ + %@";
+"CBLImageQualityNoJPEG" = "Unbekannt";
+"RAWJPEGFormatter" = "%@ & %@";
