@@ -82,10 +82,10 @@
 "PTPPropertyCodeEOSMyMenuList" = "Meine Menüliste";
 "PTPPropertyCodeEOSWftStatus" = "WFT Status";
 "PTPPropertyCodeEOSWftInputTransmission" = "WFT Input Trans.";
-"PTPPropertyCodeEOSHDDirectoryStructure" = "HD Structure";
+"PTPPropertyCodeEOSHDDirectoryStructure" = "HD Struktur";
 "PTPPropertyCodeEOSBatteryInfo" = "Batterie-Info";
 "PTPPropertyCodeEOSAdapterInfo" = "Adapter Info";
-"PTPPropertyCodeEOSLensStatus" = "Linsenstatus";
+"PTPPropertyCodeEOSLensStatus" = "Objektivstatus";
 "PTPPropertyCodeEOSQuickReviewTime" = "Bildanzeigezeit";
 "PTPPropertyCodeEOSCardExtension" = "Kartenerweiterung";
 "PTPPropertyCodeEOSTempStatus" = "Temp. Status";
@@ -111,11 +111,11 @@
 "PTPPropertyCodeEOSFocusInfoEx" = "Fokus Info";
 "PTPPropertyCodeEOSDepthOfField" = "Schärfentiefe";
 "PTPPropertyCodeEOSBrightness" = "Helligkeit";
-"PTPPropertyCodeEOSLensAdjustParams" = "Linsenparameter";
+"PTPPropertyCodeEOSLensAdjustParams" = "Objektivparameter";
 "PTPPropertyCodeEOSEFComp" = "EF Komp.";
-"PTPPropertyCodeEOSLensName" = "Linse";
+"PTPPropertyCodeEOSLensName" = "Objektiv";
 "PTPPropertyCodeEOSAEB" = "AEB";
 "PTPPropertyCodeEOSStroboSetting" = "Strobo Einstellung";
 "PTPPropertyCodeEOSStroboWirelessSetting" = "Strobo Wireless Einstellung";
 "PTPPropertyCodeEOSStroboFiring" = "Strobo Firing";
-"PTPPropertyCodeEOSLensID" = "Linsen ID";
+"PTPPropertyCodeEOSLensID" = "Objektiv-ID";

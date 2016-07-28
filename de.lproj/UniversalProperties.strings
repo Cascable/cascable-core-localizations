@@ -14,7 +14,7 @@
 "CBLPropertyIdentifierDOFPreviewEnabled" = "Schärfentiefevorschau?";
 "CBLPropertyIdentifierEVFOutputDevice" = "EVF Ausgabe";
 "CBLPropertyIdentifierShotsAvailable" = "Fotos verfügbar";
-"CBLPropertyIdentifierLensStatus" = "Linse?";
+"CBLPropertyIdentifierLensStatus" = "Objektiv?";
 "CBLPropertyIdentifierColorTone" = "Farbton";
 "CBLPropertyIdentifierArtFilter" = "Kunstfilter";
 "CBLPropertyIdentifierDigitalZoom" = "Digitaler Telekonverter";

@@ -2,7 +2,7 @@
 "CBLAutoExposureModeProgramAuto" = "P";
 "CBLAutoExposureModeShutterPriority" = "S";
 "CBLAutoExposureModeAperturePriority" = "A";
-"CBLAutoExposureModeManual" = "Mio";
+"CBLAutoExposureModeManual" = "M";
 "CBLAutoExposureModeBulbManual" = "Bulb";
 "CBLAutoExposureModeFlashOff" = "Blitz aus";
 "CBLAutoExposureModeCreativePortrait" = "Kreativ Hochformat";
