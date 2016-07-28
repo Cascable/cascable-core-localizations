@@ -1,11 +1,11 @@
 
-"FNumber" = "Aperture";
-"ShutterSpeed" = "Shutter Speed";
+"FNumber" = "Blende";
+"ShutterSpeed" = "Verschlusszeit";
 "IsoSpeedRate" = "ISO";
-"ExposureCompensation" = "Exposure Compensation";
-"ExposureMode" = "Exposure Mode";
-"FocusMode" = "Focusing";
-"ContShootingMode" = "Shutter Drive";
-"SelfTimer" = "Self Timer";
-"CBLPropertyIdentifierDriveMode" = "Drive Mode";
-"WhiteBalance" = "White Balance";
+"ExposureCompensation" = "Belichtungskompensation";
+"ExposureMode" = "Belichtungsmodus";
+"FocusMode" = "Fokussierung";
+"ContShootingMode" = "Verschlussauswahl";
+"SelfTimer" = "Selbstauslöser";
+"CBLPropertyIdentifierDriveMode" = "Auslösermodus";
+"WhiteBalance" = "Weißabgleich";

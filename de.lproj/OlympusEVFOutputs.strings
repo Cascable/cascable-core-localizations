@@ -1,3 +1,3 @@
-"CBLEVFDestinationNone" = "None";
-"CBLEVFDestinationCameraScreen" = "Camera";
+"CBLEVFDestinationNone" = "Ohne";
+"CBLEVFDestinationCameraScreen" = "Kamera";
 "CBLEVFDestinationNetworkDevice" = "Host";

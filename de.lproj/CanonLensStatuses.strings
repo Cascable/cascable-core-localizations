@@ -4,5 +4,5 @@
   camera (if provided) when set to this language.
 */
 
-"EOSLensStatusLensNotAvailable" = "Lens Not Available";
-"EOSLensStatusLensAvailable" = "Lens Available";
+"EOSLensStatusLensNotAvailable" = "Objektiv nicht verfügbar";
+"EOSLensStatusLensAvailable" = "Objektiv verfügbar";

@@ -1,38 +1,38 @@
 /* CBLOlympusWhiteBalanceAutomatic */
-"0" = "Automatic";
+"0" = "Automatisch";
 
 /* CBLOlympusWhiteBalanceSunny */
-"18" = "Sunny";
+"18" = "Sonnig";
 
 /* CBLOlympusWhiteBalanceShadow */
-"16" = "Shadow";
+"16" = "Schatten";
 
 /* CBLOlympusWhiteBalanceCloudy */
-"17" = "Cloudy";
+"17" = "Wolkig";
 
 /* CBLOlympusWhiteBalanceIncandescent */
-"20" = "Incandescent";
+"20" = "Glühlampe";
 
 /* CBLOlympusWhiteBalanceFluorescent */
-"35" = "Fluorescent";
+"35" = "Leuchtstofflampe";
 
 /* CBLOlympusWhiteBalanceUnderwater */
-"64" = "Underwater";
+"64" = "Unterwasser";
 
 /* CBLOlympusWhiteBalanceFlash */
-"23" = "Flash";
+"23" = "Blitz";
 
 /* CBLOlympusWhiteBalanceCaptureWB1 */
-"256" = "Capture WB 1";
+"256" = "WB 1 festhalten";
 
 /* CBLOlympusWhiteBalanceCaptureWB2 */
-"257" = "Capture WB 2";
+"257" = "WB 2 festhalten";
 
 /* CBLOlympusWhiteBalanceCaptureWB3 */
-"258" = "Capture WB 3";
+"258" = "WB 3 festhalten";
 
 /* CBLOlympusWhiteBalanceCaptureWB4 */
-"259" = "Capture WB 4";
+"259" = "WB 4 festhalten";
 
 /* CBLOlympusWhiteBalanceExplicitKelvin */
 "512" = "Kelvin";
