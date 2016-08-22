@@ -21,3 +21,5 @@
 "CBLPropertyIdentifierWhiteBalance" = "White Balance";
 "CBLPropertyIdentifierNoiseReduction" = "Noise Reduction";
 "CBLPropertyIdentifierImageQuality" = "Image Quality";
+"CBLPropertyIdentifierLightMeterStatus" = "Light Meter Status";
+"CBLPropertyIdentifierLightMeterReading" = "Light Meter Reading";
