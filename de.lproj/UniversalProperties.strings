@@ -21,3 +21,5 @@
 "CBLPropertyIdentifierWhiteBalance" = "Weißabgleich";
 "CBLPropertyIdentifierNoiseReduction" = "Rauschreduzierung";
 "CBLPropertyIdentifierImageQuality" = "Bildqualität";
+"CBLPropertyIdentifierLightMeterStatus" = "Status Belichtungsmesser";
+"CBLPropertyIdentifierLightMeterReading" = "Messwert Belichtungsmesser";
