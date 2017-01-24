@@ -1,0 +1,71 @@
+/* 
+  PanasonicAutoExposureModes.strings
+  CascableCore
+
+  Created by Daniel Kennett on 2017-01-24.
+  Copyright © 2017 Cascable AB. All rights reserved.
+*/
+
+
+"programAuto" = "Program Auto";
+"aperturePriority" = "Aperture Priority";
+"shutterPriority" = "Shutter Priority";
+"manual" = "Manual";
+
+"intelligentAuto" = "Intelligent Auto";
+"intelligentAutoPlus" = "Intelligent Auto Plus";
+
+"intelligentAutoMacro" = "Intelligent Auto Macro";
+
+"movie" = "Movie";
+"panorama" = "Panorama";
+
+// Creative Control
+"creativeControlFilterExpressive" = "Filter: Expressive";
+"creativeControlFilterRetro" = "Filter: Retro";
+"creativeControlFilterOldDays" = "Filter: Old Days";
+"creativeControlFilterHighKey" = "Filter: High Key";
+"creativeControlFilterLowKey" = "Filter: Low Key";
+"creativeControlFilterSepia" = "Filter: Sepia";
+"creativeControlFilterMonochrome" = "Filter: Monochrome";
+"creativeControlFilterDynamicMonochrome" = "Filter: Dynamic Monochrome";
+"creativeControlFilterRoughMonochrome" = "Filter: Rough Monochrome";
+"creativeControlFilterSilkyMonochrome" = "Filter: Silky Monochrome";
+"creativeControlFilterImpressiveArt" = "Filter: Impressive Art";
+"creativeControlFilterHighDynamic" = "Filter: High Dynamic";
+"creativeControlFilterCrossProcess" = "Filter: Cross Process";
+"creativeControlFilterToyEffect" = "Filter: Toy Effect";
+"creativeControlFilterToyPop" = "Filter: Toy Pop";
+"creativeControlFilterBleachBypass" = "Filter: Bleach Bypass";
+"creativeControlFilterMiniatureEffect" = "Filter: Miniature Effect";
+"creativeControlFilterSoftFocus" = "Filter: Soft Focus";
+"creativeControlFilterFantasy" = "Filter: Fantasy";
+"creativeControlFilterStarFilter" = "Filter: Star Filter";
+"creativeControlFilterOnePointColor" = "Filter: One Point Color";
+"creativeControlFilterSunshine " = "Filter: Sunshine";
+
+// Scene guide
+"sceneGuideClearPortrait" = "Scene Guide: Clear Portrait";
+"sceneGuideSilkySkin" = "Scene Guide: Silky Skin";
+"sceneGuideBacklitSoftness" = "Scene Guide: Backlit softness";
+"sceneGuideClearInBacklight" = "Scene Guide: Clear in Backlight";
+"sceneGuideRelaxingTone" = "Scene Guide: Relaxing Tone";
+"sceneGuideSweetChildsFace" = "Scene Guide: Sweet Child's Face";
+"sceneGuideDistinctScenery" = "Scene Guide: Distinct Scenery";
+"sceneGuideBrightBlueSky" = "Scene Guide: Bright Blue Sky";
+"sceneGuideRomanticSunsetGlow" = "Scene Guide: Romantic Sunset Glow";
+"sceneGuideVividSunsetGlow" = "Scene Guide: Vivid Sunset Glow";
+"sceneGuideGlisteningWater" = "Scene Guide: Glistening Water";
+"sceneGuideClearNightscape" = "Scene Guide: Clear Nightscape";
+"sceneGuideCoolNightSky" = "Scene Guide: Cool Night Sky";
+"sceneGuideWarmGlowingNightscape" = "Scene Guide: Warm Glowing Nightscape  ";
+"sceneGuideArtisticNightscape" = "Scene Guide: Artistic Nightscape";
+"sceneGuideGlitteringIlluminations" = "Scene Guide: Glittering Illuminations";
+"sceneGuideHandheldNightShot" = "Scene Guide: Handheld Night Shot";
+"sceneGuideClearNightPortrait" = "Scene Guide: Clear Night Portrait";
+"sceneGuideSoftImageOfFlower" = "Scene Guide: Soft Image of a Flower";
+"sceneGuideAppetizingFood" = "Scene Guide: Appetizing Food";
+"sceneGuideCuteDessert" = "Scene Guide: Cute Dessert";
+"sceneGuideFreezeAnimalMotion" = "Scene Guide: Freeze Animal Motion";
+"sceneGuideClearSportsShot" = "Scene Guide: Clear Sports Shot";
+"sceneGuideMonochrome" = "Scene Guide: Monochrome";
