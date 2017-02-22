@@ -14,3 +14,8 @@
 "EOSWhiteBalanceShade" = "Shade";
 "EOSWhiteBalanceColorTemp" = "Color Temperature";
 "EOSWhiteBalanceAutoWhitePriority" = "Automatic (White Priority)";
+"EOSWhiteBalanceCustom1" = "Custom 1";
+"EOSWhiteBalanceCustom2" = "Custom 2";
+"EOSWhiteBalanceCustom3" = "Custom 3";
+"EOSWhiteBalanceCustom4" = "Custom 4";
+"EOSWhiteBalanceCustom5" = "Custom 5";

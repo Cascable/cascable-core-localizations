@@ -13,3 +13,6 @@
 "EOSDriveMode2SecTimer" = "Self-Timer: 2s";
 "EOSDriveModeSingleSilent" = "Silent Single Shot";
 "EOSDriveModeContinuousSilent" = "Silent Continuous";
+"EOSDriveModeSingleSilent2" = "Single Silent";
+"EOSDriveModeSilentHSContinuous" = "Silent HS Continuous";
+"EOSDriveModeSilentLSContinuous" = "Silent LS Continuous";
