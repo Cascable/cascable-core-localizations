@@ -1,0 +1,18 @@
+/* 
+  FujiWhiteBalances.strings
+  CascableCore
+
+  Created by Daniel Kennett on 2017-02-22.
+  Copyright © 2017 Cascable AB. All rights reserved.
+*/
+
+"CBLWhiteBalanceAutomatic" = "Auto";
+"CBLWhiteBalanceSunny" = "Fine";
+"CBLWhiteBalanceIncandescent" = "Incandescent";
+"CBLWhiteBalanceFluorescentDaylight" = "Fluorescent 1";
+"CBLWhiteBalanceFluorescentWarm" = "Fluorescent 2";
+"CBLWhiteBalanceFluorescentWhite" = "Fluorescent 3";
+"CBLWhiteBalanceShadow" = "Shade";
+"CBLWhiteBalanceUnderwater" = "Underwater";
+"CBLWhiteBalanceExplicitKelvin" = "Color Temperature";
+"CBLWhiteBalanceCustom" = "Custom";
