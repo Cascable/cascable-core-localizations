@@ -16,4 +16,8 @@
 "CBLColorToneVivid" = "Velvia/Vivid";
 "CBLColorToneMuted" = "Astia/Soft";
 "CBLColorTonePortrait" = "PRO Negative Hi";
-"CBLColorToneMonotone" = "B&W";
+"CBLColorToneMonotone" = "Monochrome";
+"CBLColorToneFujiAcrosStandard" = "Acros B&W";
+"CBLColorToneFujiAcrosYellowFilter" = "Acros B&W+Yellow Filter";
+"CBLColorToneFujiAcrosRedFilter" = "Acros B&W+Red Filter";
+"CBLColorToneFujiAcrosGreenFilter" = "Acros B&W+Green Filter";
