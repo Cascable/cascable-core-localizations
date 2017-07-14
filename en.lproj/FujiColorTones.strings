@@ -1,0 +1,23 @@
+/* 
+  FujiColorTones.strings
+  CascableCore
+
+  Created by Daniel Kennett on 2017-03-08.
+  Copyright © 2017 Cascable AB. All rights reserved.
+*/
+
+"CBLColorToneNone" = "Provia/Standard";
+"CBLColorToneSepia" = "Sepia";
+"CBLColorToneSoftPortrait" = "PRO Negative Standard";
+"CBLColorToneMonotoneYellowFilter" = "Monochrome+Yellow Filter";
+"CBLColorToneMonotoneRedFilter" = "Monochrome+Red Filter";
+"CBLColorToneMonotoneGreenFilter" = "Monochrome+Green Filter";
+"CBLColorToneFujiClassicChrome" = "Classic Chrome";
+"CBLColorToneVivid" = "Velvia/Vivid";
+"CBLColorToneMuted" = "Astia/Soft";
+"CBLColorTonePortrait" = "PRO Negative Hi";
+"CBLColorToneMonotone" = "Monochrome";
+"CBLColorToneFujiAcrosStandard" = "Acros B&W";
+"CBLColorToneFujiAcrosYellowFilter" = "Acros B&W+Yellow Filter";
+"CBLColorToneFujiAcrosRedFilter" = "Acros B&W+Red Filter";
+"CBLColorToneFujiAcrosGreenFilter" = "Acros B&W+Green Filter";
