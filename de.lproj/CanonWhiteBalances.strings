@@ -14,8 +14,8 @@
 "EOSWhiteBalanceShade" = "Schatten";
 "EOSWhiteBalanceColorTemp" = "Farbtemperatur";
 "EOSWhiteBalanceAutoWhitePriority" = "Automatisch (White Priority)";
-"EOSWhiteBalanceCustom1" = "Persönlich 1";
-"EOSWhiteBalanceCustom2" = "Persönlich 2";
-"EOSWhiteBalanceCustom3" = "Persönlich 3";
-"EOSWhiteBalanceCustom4" = "Persönlich 4";
-"EOSWhiteBalanceCustom5" = "Persönlich 5";
+"EOSWhiteBalanceCustom1" = "Eigener 1";
+"EOSWhiteBalanceCustom2" = "Eigener 2";
+"EOSWhiteBalanceCustom3" = "Eigener 3";
+"EOSWhiteBalanceCustom4" = "Eigener 4";
+"EOSWhiteBalanceCustom5" = "Eigener 5";

@@ -1,0 +1,71 @@
+/* 
+  PanasonicAutoExposureModes.strings
+  CascableCore
+
+  Created by Daniel Kennett on 2017-01-24.
+  Copyright © 2017 Cascable AB. All rights reserved.
+*/
+
+
+"programAuto" = "Programmautomatik";
+"aperturePriority" = "Blenden-Priorität";
+"shutterPriority" = "Blenden-Priorität";
+"manual" = "Manuell";
+
+"intelligentAuto" = "Intelligent Auto";
+"intelligentAutoPlus" = "Intelligenter Plus-Automatikmodus";
+
+"intelligentAutoMacro" = "i-Makro";
+
+"movie" = "Film";
+"panorama" = "Panorama";
+
+// Creative Control
+"creativeControlFilterExpressive" = "Filter: Expressive";
+"creativeControlFilterRetro" = "Filter: Retro";
+"creativeControlFilterOldDays" = "Filter: Früher";
+"creativeControlFilterHighKey" = "Filter: High Key";
+"creativeControlFilterLowKey" = "Filter: Low Key";
+"creativeControlFilterSepia" = "Filter: Sepia";
+"creativeControlFilterMonochrome" = "Filter: Schwarz-Weiß";
+"creativeControlFilterDynamicMonochrome" = "Filter: Dynamisch Monochrom";
+"creativeControlFilterRoughMonochrome" = "Filter: Grobes Schwarz-Weiß";
+"creativeControlFilterSilkyMonochrome" = "Filter: Weiches Schwarz-Weiß";
+"creativeControlFilterImpressiveArt" = "Filter: Impressiv";
+"creativeControlFilterHighDynamic" = "Filter: Hohe Dynamik";
+"creativeControlFilterCrossProcess" = "Filter: Cross-Prozess";
+"creativeControlFilterToyEffect" = "Filter: Spielzeugeffekt";
+"creativeControlFilterToyPop" = "Filter: Toy Pop";
+"creativeControlFilterBleachBypass" = "Filter: Bleach-Bypass";
+"creativeControlFilterMiniatureEffect" = "Filter: Miniatureffekt";
+"creativeControlFilterSoftFocus" = "Filter: Weichzeichnung";
+"creativeControlFilterFantasy" = "Filter: Fantasie";
+"creativeControlFilterStarFilter" = "Filter: Sternfilter";
+"creativeControlFilterOnePointColor" = "Filter: Selektivfarbe";
+"creativeControlFilterSunshine " = "Filter: Sonnenschein";
+
+// Scene guide
+"sceneGuideClearPortrait" = "Szenen-Guide: Freigestelltes Portrait";
+"sceneGuideSilkySkin" = "Szenen-Guide: Seidige Haut";
+"sceneGuideBacklitSoftness" = "Szenen-Guide: Gegenlicht weich";
+"sceneGuideClearInBacklight" = "Szenen-Guide: Gegenlicht hart";
+"sceneGuideRelaxingTone" = "Szenen-Guide: Weicher Farbton";
+"sceneGuideSweetChildsFace" = "Szenen-Guide: Kindergesicht";
+"sceneGuideDistinctScenery" = "Szenen-Guide: Landschaft";
+"sceneGuideBrightBlueSky" = "Szenen-Guide: Heller blauer Himmel";
+"sceneGuideRomanticSunsetGlow" = "Szenen-Guide: Sonnenuntergang romantisch";
+"sceneGuideVividSunsetGlow" = "Szenen-Guide: Sonnenuntergang dramatisch";
+"sceneGuideGlisteningWater" = "Szenen-Guide: Glitzerndes Wasser";
+"sceneGuideClearNightscape" = "Szenen-Guide: Klare Nachtaufnahme";
+"sceneGuideCoolNightSky" = "Szenen-Guide: Kühler Nachthimmel";
+"sceneGuideWarmGlowingNightscape" = "Szenen-Guide: Warme Nachtlandschaft";
+"sceneGuideArtisticNightscape" = "Szenen-Guide: Nachtaufnahme verfremdet";
+"sceneGuideGlitteringIlluminations" = "Szenen-Guide: Neonlichter";
+"sceneGuideHandheldNightShot" = "Szenen-Guide: Handgehaltene Nachtaufnahme";
+"sceneGuideClearNightPortrait" = "Szenen-Guide: Nachtportrait";
+"sceneGuideSoftImageOfFlower" = "Szenen-Guide: Weiches Bild einer Blume";
+"sceneGuideAppetizingFood" = "Szenen-Guide: Appetitliche Speisen";
+"sceneGuideCuteDessert" = "Szenen-Guide: Leckeres Dessert";
+"sceneGuideFreezeAnimalMotion" = "Szenen-Guide: Bewegung einfrieren";
+"sceneGuideClearSportsShot" = "Szenen-Guide: Sportfoto";
+"sceneGuideMonochrome" = "Szenen-Guide: Monochrom";

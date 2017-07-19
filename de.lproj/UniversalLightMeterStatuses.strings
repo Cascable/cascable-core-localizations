@@ -6,6 +6,6 @@
   Copyright © 2016 Daniel Kennett. All rights reserved.
 */
 
-"CBLLightMeterStatusNotInUse" = "Nicht in Verwendung";
-"CBLLightMeterStatusValidReading" = "In Verwendung";
-"CBLLightMeterStatusReadingBeyondBounds" = "In Verwendung (außerhalb des Messbereichs)";
+"CBLLightMeterStatusNotInUse" = "Nicht im Einsatz";
+"CBLLightMeterStatusValidReading" = "Im Einsatz";
+"CBLLightMeterStatusReadingBeyondBounds" = "Im Einsatz (ungültig)";
