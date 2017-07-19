@@ -13,6 +13,3 @@
 "EOSDriveMode2SecTimer" = "Selbstauslöser: 2s";
 "EOSDriveModeSingleSilent" = "Leises Einzelbild";
 "EOSDriveModeContinuousSilent" = "Stille Reihenaufnahme";
-"EOSDriveModeSingleSilent2" = "Leises Einzelbild";
-"EOSDriveModeSilentHSContinuous" = "Stille HS Reihenaufn.";
-"EOSDriveModeSilentLSContinuous" = "Stille LS Reihenaufn.";
