@@ -5,6 +5,11 @@
 */
 
 "EOSLiveViewAFSystemQuick" = "Quick Focus";
-"EOSLiveViewAFSystemFlexiZone" = "FlexiZone Single";
+"EOSLiveViewAFSystemSinglePointFlexiZone" = "FlexiZone Single";
 "EOSLiveViewAFSystemFaceDetect" = "Face Detection";
 "EOSLiveViewAFSystemFlexiZoneMulti" = "FlexiZone Multi";
+"EOSLiveViewAFSystemZone" = "Zone AF";
+"EOSLiveViewAFSystemExpandPlus" = "Expand AF Area: +";
+"EOSLiveViewAFSystemExpandAround" = "Expand AF Area: Around";
+"EOSLiveViewAFSystemLargeZoneHorizontal" = "Large Zone AF: Horizontal";
+"EOSLiveViewAFSystemLargeZoneVertical" = "Large Zone AF: Vertical";

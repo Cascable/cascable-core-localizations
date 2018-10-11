@@ -5,6 +5,11 @@
 */
 
 "EOSLiveViewAFSystemQuick" = "Schnellfokus";
-"EOSLiveViewAFSystemFlexiZone" = "FlexiZone Single";
+"EOSLiveViewAFSystemSinglePointFlexiZone" = "FlexiZone Single";
 "EOSLiveViewAFSystemFaceDetect" = "Gesichtserkennung";
 "EOSLiveViewAFSystemFlexiZoneMulti" = "FlexiZone Multi";
+"EOSLiveViewAFSystemZone" = "Zone AF";
+"EOSLiveViewAFSystemExpandPlus" = "AF-Bereich: +";
+"EOSLiveViewAFSystemExpandAround" = "AF-Bereich: Umgebung";
+"EOSLiveViewAFSystemLargeZoneHorizontal" = "Zone AF: Horiz";
+"EOSLiveViewAFSystemLargeZoneVertical" = "Zone AF: Verti";
