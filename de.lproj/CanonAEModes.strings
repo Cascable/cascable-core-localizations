@@ -26,4 +26,5 @@
 "EOSAEModeSceneIntelligentAuto" = "A+";
 "EOSAEModeSceneHandheldNight" = "Nachtaufn. ohne Stativ";
 "EOSAEModeSceneHDRBacklightControl" = "HDR-Gegenlicht";
+"EOSAEModeFlexiblePriorityAuto" = "Flexible Automatik";
 "EOSAEModeUnknown" = "?";

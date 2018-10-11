@@ -26,4 +26,5 @@
 "EOSAEModeSceneIntelligentAuto" = "A+";
 "EOSAEModeSceneHandheldNight" = "Handheld Night";
 "EOSAEModeSceneHDRBacklightControl" = "HDR Backlight Control";
+"EOSAEModeFlexiblePriorityAuto" = "Flexible-priority AE";
 "EOSAEModeUnknown" = "?";
