@@ -8,3 +8,4 @@
 "CBLWhiteBalanceFlash" = "Blitz";
 "CBLWhiteBalanceExplicitKelvin" = "Farbtemperatur";
 "CBLWhiteBalanceNikonPresetManual" = "Manuelle Vorgabe";
+"CBLWhiteBalanceAutomaticNaturalLight" = "Auto-Tageslicht";

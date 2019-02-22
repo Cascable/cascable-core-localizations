@@ -2,10 +2,11 @@
 "CBLDriveModeSingleShotSilent" = "Leises Einzelbild";
 "CBLDriveModeContinuousShooting" = "Fortlaufend";
 "CBLDriveModeContinuousShootingSilent" = "Fortlaufend still";
-"CBLDriveModeHighSpeedContinuousShooting" = "Reihenaufn. m. hoh. Geschw.";
-"CBLDriveModeLowSpeedContinuousShooting" = "Reihenaufn. m. niedr. Geschw.";
+"CBLDriveModeHighSpeedContinuousShooting" = "Serienaufnahme H";
+"CBLDriveModeLowSpeedContinuousShooting" = "Serienaufnahme L";
 "CBLDriveModeContinuousShootingWithTimer" = "Selbstauslöser: Reihenaufnahme";
 "CBLDriveModeTenSecondTimer" = "Selbstauslöser: 10s";
 "CBLDriveModeTwoSecondTimer" = "Selbstauslöser: 2s";
 "CBLDriveModeSingleShotWithMirrorUp" = "Spiegel hoch";
 "CBLDriveModeNikonQuickResponseRemote" = "Quick-Response Fernbedienung";
+"CBLDriveModeNikonHighSpeedExtendedContinuousShooting" = "Serienaufnahme H (erweitert)";
