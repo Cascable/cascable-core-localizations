@@ -4,3 +4,7 @@
 "CBLImageQualityNikonJPEGBasic" = "JPEG Basic";
 "CBLImageQualityNoJPEG" = "Unknown";
 "RAWJPEGFormatter" = "%@ + %@";
+"CBLImageQualityNikonJPEGFineHighQuality" = "JPEG Fine ★";
+"CBLImageQualityNikonJPEGNormalHighQuality" = "JPEG Normal ★";
+"CBLImageQualityNikonJPEGBasicHighQuality" = "JPEG Basic ★";
+"CBLImageQualityTIFF" = "TIFF";
