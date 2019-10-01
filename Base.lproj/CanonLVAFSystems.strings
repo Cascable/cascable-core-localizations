@@ -13,3 +13,4 @@
 "EOSLiveViewAFSystemExpandAround" = "Expand AF Area: Around";
 "EOSLiveViewAFSystemLargeZoneHorizontal" = "Large Zone AF: Horizontal";
 "EOSLiveViewAFSystemLargeZoneVertical" = "Large Zone AF: Vertical";
+"EOSLiveViewAFSystemSpot" = "Spot AF";
