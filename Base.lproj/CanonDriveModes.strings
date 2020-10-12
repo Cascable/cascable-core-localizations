@@ -16,3 +16,4 @@
 "EOSDriveModeSingleSilent2" = "Single Silent";
 "EOSDriveModeSilentHSContinuous" = "Silent HS Continuous";
 "EOSDriveModeSilentLSContinuous" = "Silent LS Continuous";
+"EOSDriveModeHighSpeedContinuousPlus" = "High Speed Continuous +";
